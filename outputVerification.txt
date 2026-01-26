@@ -1,0 +1,65 @@
+PS C:\Classes\OOP2\Assignment 1>  c:; cd 'c:\Classes\OOP2\Assignment 1'; & 'C:\Program Files\Eclipse Adoptium\jdk-21.0.6.7-hotspot\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Kikaite\AppData\Roaming\Code\User\workspaceStorage\8f8940dc2ea8dba48410a8b4fd9b8f6a\redhat.java\jdt_ws\Assignment 1_7a95bb6a\bin' 'sait.mms.application.AppDriver'
+Movie Management System
+1     Add New movie and Save
+2     Generate List of Movies Released in a Year
+3     Generate list of Random Movies
+4     Exit
+1
+Enter duration: 100
+Enter movie title: We are Gold
+Enter year: 2019
+Saving movies...
+Added movie to the data file.
+
+
+Movie Management System
+1     Add New movie and Save
+2     Generate List of Movies Released in a Year
+3     Generate list of Random Movies
+4     Exit
+2
+Enter in year: 1996
+
+Movie List:
+Duration   Year     Title
+103        1996     DragonHeart
+93         1996     Trainspotting
+145        1996     Independence Day
+Total duration: 341 minutes
+
+
+Movie Management System
+1     Add New movie and Save
+2     Generate List of Movies Released in a Year
+3     Generate list of Random Movies
+4     Exit
+5
+Invalid Option!
+
+Movie Management System
+1     Add New movie and Save
+2     Generate List of Movies Released in a Year
+3     Generate list of Random Movies
+4     Exit
+3
+Enter number of movies: 5
+
+Movie List:
+Duration   Year     Title
+125        2014     A Most Violent Year
+126        2017     King Arthur: Legend of the Sword
+151        2006     Pirates of the Caribbean: Dead Man's Chest
+83         1989     The Little Mermaid
+120        2015     Chappie
+Total duration: 605 minutes
+
+
+Movie Management System
+1     Add New movie and Save
+2     Generate List of Movies Released in a Year
+3     Generate list of Random Movies
+4     Exit
+4
+Exiting...
+
+PS C:\Classes\OOP2\Assignment 1> 
